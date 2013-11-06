@@ -3,7 +3,7 @@ package structtag_test
 import (
 	"testing"
 
-	"github.com/daaku/go.structtag"
+	"github.com/ParsePlatform/go.structtag"
 )
 
 func TestExtract(t *testing.T) {
